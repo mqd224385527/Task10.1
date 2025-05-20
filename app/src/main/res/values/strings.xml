@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Learning Assistant</string>
+    <string name="welcome">Welcome,</string>
+    <string name="student">Student!</string>
+    <string name="lets_start_learning">Let\'s Start Learning!</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="need_an_account">Need an Account?</string>
+    <string name="lets_get_you">Let\'s Get You</string>
+    <string name="setup">Setup!</string>
+    <string name="email">Email</string>
+    <string name="confirm_email">Confirm Email</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="your">Your</string>
+    <string name="interests">Interests</string>
+    <string name="you_may_select">You may select upto 10 topics</string>
+    <string name="next">Next</string>
+    <string name="generated_task">Generated Task 1</string>
+    <string name="small_description">Small Description for the generated Task</string>
+</resources>
